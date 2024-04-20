@@ -1,0 +1,109 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap')
+
+.dummm{
+    font-family: "Shantell Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "BNCE" 0,
+      "INFM" 0,
+      "SPAC" 0;
+  }
+
+.main{
+    border: 5px solid blue;
+    height: 500px;
+    overflow: auto;
+    background-color: black;
+    color: aqua;
+    padding: 10px;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 50px;
+    font-style:italic;
+}
+Segoe UI - 400 */
+
+/* .btn{
+    margin: 20px;
+    padding: 20px;
+}
+span{
+    border: 3px solid red;
+}
+ */
+
+
+
+/* .cont{
+    color: aqua; */
+    /* } */
+    /* background-color: blueviolet; */
+/* @media screen and (max-width:500px) {
+    .main{
+       background-color:aqua;
+       height : 100px;
+       font-size:15px ;
+    }   
+   } */
+
+
+/* 
+   .box{
+    background-color: black;
+    color: aqua;
+   } */
+
+
+
+   @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+   body{
+       font-family: "Raleway", sans-serif !important;
+   }
+   .navbar{
+       background-image: repeating-linear-gradient(242deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(287deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(197deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(332deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),linear-gradient(287deg, rgb(41, 27, 158),rgb(249, 77, 212));
+   }
+   .nav-link{
+      
+       font-weight: bold !important;
+       font-size: 1rem !important;
+       border-radius: 10px;
+   }
+   
+   .nav-link:hover{
+       background-color: #F94DD4;
+       color: black !important;
+   }
+   .btn-primary:hover{
+       background-color:#F94DD4 !important;
+       border: none;
+   }
+   .navbar-toggler {
+       background-color: rgb(238, 185, 245) !important;
+       
+   }
+   .butn{
+       background-color:#F94DD4 !important;
+       border: none;
+       color: black;
+       font-weight: bold !important;
+   }
+   .butn:hover{
+       background-color:#7209b7 !important;
+       border: none;
+       color: white !important;
+       font-weight: bold !important;
+   }
+   .tts{
+      color: #F94DD4 !important;
+   }
+   .ttc{
+       color: #7209b7 !important;
+   }
+   .card-title{
+       color: #F94DD4 !important;
+   }
+   .card-text{
+       color: #7209b7 !important;
+   }    
